@@ -1,0 +1,17 @@
+{
+  "name": "@nuxtjs/vee-validate",
+  "version": "0.0.1",
+  "description": "Nuxt module to use vee-validate",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Abdelrahman Awad <logaretm1@gmail.com>"
+    }
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/nuxt/modules",
+  "homepage": "https://github.com/nuxt/modules/tree/master/modules/vuetify",
+  "dependencies": {
+    "vee-validate": "^2.0.0-rc.18"
+  }
+}
